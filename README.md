@@ -5,5 +5,5 @@ Add the jackson dependencies including jackson-core, jackson-databind, jackson-a
 Make Sure credentials are configured in the ~aws/credentials file using the following command.  
 
 # aws configure
-Access key ID: <YOUR-ACCESS_ID>
-Secret access key: <YOUR_SECRET_KEY>
+Access key ID: <YOUR-ACCESS_ID>  
+Secret access key: <YOUR_SECRET_KEY>  
